@@ -25,7 +25,11 @@ class Artist
         end 
       end 
     end 
+<<<<<<< HEAD
     Artist.new(name)
+=======
+    return Artist.new(name)
+>>>>>>> 3e3bf184e7293343fd2865249b8e9cdcb5468add
   end
   
   def self.all
